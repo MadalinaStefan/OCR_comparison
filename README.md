@@ -11,6 +11,7 @@ contiene il dataset utilizzato per l’esperimento. Contiene al suo interno le q
 ##### *•	golden_text:*
 contiene al suo interno i file .csv di ogni categoria di immagine contenente il testo corretto presente nelle immagini, che verrà confrontato con i caratteri predetti dai programmi OCR
 
-I notebook: …… contengono 
+### **I notebook KerasOcr.ipynb, Tesseract.ipynb, EasyOcr.ipynb:**
+Contengono i codici sorgente dei programmi utilizzati per condurre lo studio. 
 
 
