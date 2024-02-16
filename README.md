@@ -31,12 +31,17 @@ Contengono i codici sorgente dei programmi utilizzati per condurre lo studio.
 • https://colab.research.google.com/github/bhattbhavesh91/keras-ocr-demo/blob/main/keras-ocr-notebook.ipynb#scrollTo=29bAoTk7c2Z-
 
 **Tesseract**
+
 • https://tesseract-ocr.github.io/tessdoc/#source-code
+
 • https://pypi.org/project/pytesseract/
+
 • https://nanonets.com/blog/ocr-with-tesseract/
 
 **Easy Ocr**
+
 • https://github.com/JaidedAI/EasyOCR
+
 • https://documentation.euresys.com/Products/Open_eVision/Open_eVision_2_5/en-us/Content/03_Using_Open_eVision/D1_EasyOCR_-_Reading_Texts/EasyOCR_-_Reading_Texts.htm
 
 
