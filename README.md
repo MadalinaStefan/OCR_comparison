@@ -31,7 +31,7 @@ Tesseract
 • https://pypi.org/project/pytesseract/
 • https://nanonets.com/blog/ocr-with-tesseract/
 
-Easy Ocr
+**Easy Ocr**
 • https://github.com/JaidedAI/EasyOCR
 • https://documentation.euresys.com/Products/Open_eVision/Open_eVision_2_5/en-us/Content/03_Using_Open_eVision/D1_EasyOCR_-_Reading_Texts/EasyOCR_-_Reading_Texts.htm
 
