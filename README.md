@@ -20,13 +20,17 @@ Contiene al suo interno i file .csv di ogni categoria di immagine contenente il 
 Contengono i codici sorgente dei programmi utilizzati per condurre lo studio. 
 
 ### **Riferimenti:**
-Keras Ocr 
+**Keras Ocr**
+
 • https://keras-ocr.readthedocs.io/en/latest/ 
+
 • https://github.com/faustomorales/keras-ocr
+
 • https://github.com/Devashree21/Extract-Text-From-Images-Quickly-Using-Keras-OCR-Pipeline/blob/main/Keras_ocr.ipynb
+
 • https://colab.research.google.com/github/bhattbhavesh91/keras-ocr-demo/blob/main/keras-ocr-notebook.ipynb#scrollTo=29bAoTk7c2Z-
 
-Tesseract
+**Tesseract**
 • https://tesseract-ocr.github.io/tessdoc/#source-code
 • https://pypi.org/project/pytesseract/
 • https://nanonets.com/blog/ocr-with-tesseract/
